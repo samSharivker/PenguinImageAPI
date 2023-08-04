@@ -7,7 +7,7 @@ API Link: [https://penguin.sjsharivker.workers.dev/api](https://penguin.sjshariv
 ```json
 {
 
-"img":"https://raw.githubusercontent.com/code2cube/PenguinIMG/main/img/magellanic/3.jpg",
+"img":"https://raw.githubusercontent.com/code2cube/PenguinImageAPI/main/img/magellanic/3.jpg",
 "species":"magellanic"
 
 }
@@ -28,7 +28,7 @@ Output:
 ```json
 {
 
-"img":"https://raw.githubusercontent.com/code2cube/PenguinIMG/main/img/emperor/0.jpg",
+"img":"https://raw.githubusercontent.com/code2cube/PenguinImageAPI/main/img/emperor/0.jpg",
 "species":"emperor"
 
 }
