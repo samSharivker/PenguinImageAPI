@@ -1,5 +1,5 @@
 # Penguin Image API
-Created to get random images of Penguins
+Created to get random images of Penguins.
 
 API Link: [https://penguin.sjsharivker.workers.dev/api](https://penguin.sjsharivker.workers.dev/api)
 
@@ -13,8 +13,8 @@ API Link: [https://penguin.sjsharivker.workers.dev/api](https://penguin.sjshariv
 }
 ```
 
-### Custom Parameters!:
-You can select one of the following parameters to get only 1 species of Penguin:
+### Parameters:
+You can select one of the following to get only 1 species of Penguin by using the `species` parameter:
 
 * emperor
 * chinstrap,
