@@ -61,6 +61,7 @@ async function handleRequest(request) {
         responseJSON = {error: invalidSpecies};
       }
     } else {
+      statusCode = 201;
       const getRandomPenguinSpecies = Math.floor(Math.random() * allPenguinTypes.length);
       const randomPenguinSpecies = allPenguinTypes[getRandomPenguinSpecies];
       const index = Math.floor(Math.random() * 25);
