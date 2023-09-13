@@ -13,8 +13,8 @@ API Link: [https://penguin.sjsharivker.workers.dev/api](https://penguin.sjshariv
 }
 ```
 
-### Custom Endpoints:
-You can select one of the following endpoints to get only 1 species of Penguin:
+### Custom Parameters!:
+You can select one of the following parameters to get only 1 species of Penguin:
 
 * emperor
 * chinstrap,
@@ -23,7 +23,7 @@ You can select one of the following endpoints to get only 1 species of Penguin:
 * erect_crested
 * royal
 
-Example: [https://penguin.sjsharivker.workers.dev/api/emperor](https://penguin.sjsharivker.workers.dev/api/emperor) <br>
+Example: [https://penguin.sjsharivker.workers.dev/api?species=emperor](https://penguin.sjsharivker.workers.dev/api?species=emperor) <br>
 Output:
 ```json
 {
